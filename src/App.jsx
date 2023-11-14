@@ -1,12 +1,15 @@
 import { Layout } from "./components/Layout/Layout"
 import { ComidasList } from "./components/List/ComidasList"
+import { FiltersProvider } from "./Context/filters"
 function App() {
-  
+
 
   return (
-     <Layout>
-       <ComidasList/>
-     </Layout>
+    <FiltersProvider>
+      <Layout>
+        <ComidasList />
+      </Layout>
+    </FiltersProvider>
   )
 }
 

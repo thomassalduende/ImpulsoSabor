@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sandwich de Milanesa Carne Completa",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://www.juliana-delivery.com.ar/uploads/products/detail_products_2700.png",
+    "category": 4
+  },
+  {
+    "id": 2,
+    "nombre": "Sandwich de Milanesa Carne con Jamon y Queso",
+    "precio": 1200,
+    "descripcion": "Con jamon y queso. Mas aderezos",
+    "images": "",
+    "category": 4
+  },
+  {
+    "id": 3,
+    "nombre": "Sandwich de Milanesa Carne con Tomate y Lechuga",
+    "precio": 1200,
+    "descripcion": "Con tomate y lechuga. Mas aderezos",
+    "images": "",
+    "category": 4
+  },
+  {
+    "id": 4,
+    "nombre": "Sandwich de Milanesa Pollo Completa",
+    "precio": 1400,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "",
+    "category": 4
+  },
+  {
+    "id": 5,
+    "nombre": "Sandwich de Milanesa Pollo con Jamon y Queso",
+    "precio": 1100,
+    "descripcion": "Con jamon y queso. Mas aderezos",
+    "images": "",
+    "category": 4
+  },
+  {
+    "id": 6,
+    "nombre": "Sandwich de Milanesa Pollo con Tomate y Lechuga",
+    "precio": 1100,
+    "descripcion": "Con tomate y lechuga. Mas aderezos",
+    "images": "",
+    "category": 4
+  },
+  {
+    "id": 7,
+    "nombre": "Super Pancho",
+    "precio": 500,
+    "descripcion": "Con papas pay",
+    "images": "https://media.airedesantafe.com.ar/p/cc36332ad65e00fa29397bfe90659e98/adjuntos/268/imagenes/001/826/0001826542/1200x675/smart/imagepng.png",
+    "category": 3
+  },
+  {
+    "id": 8,
+    "nombre": "Patynesa Completa",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://pdg.scdn8.secure.raxcdn.com/upload/products/26755/header.jpg",
+    "category": 2
+  },
+  {
+    "id": 9,
+    "nombre": "Hamburguesa Grande Completa",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": 1
+  },
+  {
+    "id": 10,
+    "nombre": "Hamburguesa Chica Completa ",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": 1
+  },
+  {
+    "id": 11,
+    "nombre": "Hamburguesa Grande con Jamon y Queso",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": "hamburguesas"
+  },
+  {
+    "id": 12,
+    "nombre": "Hamburguesa Chica con Jamon y Queso",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": 1
+  },
+  {
+    "id": 13,
+    "nombre": "Hamburguesa Grande con Tomate y Lechuga",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": 1
+  },
+  {
+    "id": 14,
+    "nombre": "Hamburguesa Chica con Tomate y Lechuga",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": 1
+  },
+  {
+    "id": 15,
+    "nombre": "Hamburguesa Completa",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": 1
+  },
+  {
+    "id": 16,
+    "nombre": "Patynesa con Jamon y Queso",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": 2
+  },
+  {
+    "id": 17,
+    "nombre": "Patynesa con Tomate y Lechuga",
+    "precio": 1600,
+    "descripcion": "Con jamon, queso, tomate, lechuga y huevo. Mas aderezos",
+    "images": "https://media.istockphoto.com/id/520410807/es/foto/hamburguesa-con-queso.jpg?s=612x612&w=0&k=20&c=YDYCsfNMOHATJlvcswo7mjebVeLOtctrQeUPJGlR3jc=",
+    "category": 2
+  }
+]

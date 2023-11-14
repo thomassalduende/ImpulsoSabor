@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category": "Hamburguesas"
+    },
+    {
+        "id": 2,
+        "category": "Patynesas"
+    },
+    {
+        "id": 3,
+        "category": "Panchos"
+    },
+    {
+        "id": 4,
+        "category": "Milanesas"
+    },
+    {
+        "id": 5,
+        "category": "Papas Fritas"
+    }
+]

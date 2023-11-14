@@ -3,6 +3,7 @@ import { FaWhatsapp, FaBars, FaWindowClose } from 'react-icons/fa';
 import styles from './NavBar.module.css';
 import { Category } from '../Filter/Category';
 import categories from "../../service/categories.json"
+import { CategoryMenu, WhatsAppLink } from '../Filter/CategoryMenu';
 
 export const NavBar = () => {
 
@@ -56,7 +57,11 @@ export const NavBar = () => {
             </li>
           </a>
           <Category categorias={categorias} />
-          <a href="https://wa.me/3446652924" target="_blank" rel="noopener noreferrer" className="mt-[65vh]">
+          <a
+            href="https://wa.me/3446652924"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-[65vh]">
             <li>
               <FaWhatsapp className="inline-block mr-1" />
               WhatsApp
@@ -65,10 +70,23 @@ export const NavBar = () => {
         </div>
         <li className="font-light ml-2 max-md:m-auto text-2xl tracking-widest">
           <a href="/">
-            <span className="font-bold ">Impulso</span>
+            <span className="font-bold">Impulso</span>
             <i>Sabor</i>
           </a>
         </li>
+        <li className='ml-[65%] mr-4 max-[768px]:hidden'>
+          <CategoryMenu categorias={categorias} />
+        </li>
+        <a
+          href="https://wa.me/3446652924"
+          target="_blank"
+          rel="noopener noreferrer"
+          className='max-[768px]:hidden'>
+          <li>
+            <FaWhatsapp className="inline-block mr-2" />
+            WhatsApp
+          </li>
+        </a>
       </ul>
     </nav>
   );

@@ -3,7 +3,7 @@ import { FaWhatsapp, FaBars, FaWindowClose } from 'react-icons/fa';
 import styles from './NavBar.module.css';
 import { Category } from '../Filter/Category';
 import categories from "../../service/categories.json"
-import { CategoryMenu, WhatsAppLink } from '../Filter/CategoryMenu';
+import { CategoryMenu } from '../Filter/CategoryMenu';
 
 export const NavBar = () => {
 
@@ -74,7 +74,7 @@ export const NavBar = () => {
             <i>Sabor</i>
           </a>
         </li>
-        <li className='ml-[65%] mr-4 max-[768px]:hidden'>
+        <li className='sm:ml-[45%] mr-4 max-[768px]:hidden lg:ml-[60%]'>
           <CategoryMenu categorias={categorias} />
         </li>
         <a
